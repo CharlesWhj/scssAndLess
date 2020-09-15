@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>This is less</h1>
     <div class="floor">混入不带参</div>
     <div class="about-box">混入带参</div>
     <div class="item">匹配</div>

@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="This is scss"/>
     <div class="box">混入</div>
     <div class="floor">继承</div>
     <div class="floor">继承</div>
