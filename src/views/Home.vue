@@ -22,6 +22,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+// 测试一下新建的分支dev
 // 1.引入
 @import './reset.scss';
 // 2.变量
